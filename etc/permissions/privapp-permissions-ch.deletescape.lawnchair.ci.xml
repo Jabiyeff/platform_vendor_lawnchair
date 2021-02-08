@@ -9,7 +9,7 @@
         <permission name="com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS"/>
         <permission name="ch.deletescape.lawnchair.ci.permission.READ_SETTINGS"/>
         <permission name="ch.deletescape.lawnchair.ci.permission.WRITE_SETTINGS"/>
-        <permission name="ch.deletescape.lawnchair.lawnfeed.CONNECT_SERVICE"/>
+        <permission name="ch.deletescape.lawnchair.pixelbridge.CONNECT_SERVICE"/>
         <permission name="ch.deletescape.lawnchair.ci.permission.QSB"/>
         <permission name="android.permission.EXPAND_STATUS_BAR"/>
         <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
